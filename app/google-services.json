@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "859777622665",
+    "firebase_url": "https://persondatabase-fe76b.firebaseio.com",
+    "project_id": "persondatabase-fe76b",
+    "storage_bucket": "persondatabase-fe76b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859777622665:android:1384339084da29fea01c58",
+        "android_client_info": {
+          "package_name": "com.example.persondatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "859777622665-i1i6h254o0r8glilpk8mqm9acrg9ob99.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqNa8aAv_kkoY4mVd2JXoYDoqx2Zfl1ag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "859777622665-i1i6h254o0r8glilpk8mqm9acrg9ob99.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

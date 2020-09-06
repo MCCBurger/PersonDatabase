@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PersonDatabase</string>
+    <string name="first_name">First Name</string>
+    <string name="address">Address</string>
+    <string name="id_number">ID Number</string>
+    <string name="save_to_database">SAVE TO DATABASE</string>
+</resources>
